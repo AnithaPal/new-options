@@ -20,12 +20,12 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* Rails app created with -O options
- rails new new_option rails project was creted with -O option which skips active record files while creating a rails app.
-
 * ...
 
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+##Rails app with -O option
+
+```rails new new_option ```
+rails project was creted with -O option which skips active record files while creating a rails app.
